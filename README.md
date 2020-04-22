@@ -2,7 +2,7 @@
 Macros to ban hottub time machine from world chat :)
 
 Macro#1
-/ban world Hooblah
+/ban world Hooblah<br />
 /ban world Thearen
 /ban world Shwahh
 /ban world Deathcoil
