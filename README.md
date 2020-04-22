@@ -1,120 +1,120 @@
 # list
 Macros to ban hottub time machine from world chat :)
 
-Macro#1
+Macro#1<br />
 /ban world Hooblah<br />
-/ban world Thearen
-/ban world Shwahh
-/ban world Deathcoil
-/ban world Strovgard
-/ban world Wruciraptor
-/ban world Hydration
-/ban world You
-/ban world Slipperydude
-/ban world Destine
-/ban world Tibblesworth
-/ban world Queek
-
-Macro#2
-/ban world Sintinker
-/ban world Deafmuffin
-/ban world Abanurk
-/ban world Relm
-/ban world Ajamian
-/ban world Fps
-/ban world Emeralddream
-/ban world westfall
-/ban world Abanurk
-/ban world Twixqt
-/ban world Asapchungus
-/ban world Cainna
-/ban world Beanybaby
-
-Macro#3
-/ban world Gossipgirlxo
-/ban world Bugsy
-/ban world Warpollo
-/ban world Mageputa
-/ban world Daydreamx
-/ban world Sumo
-/ban world Kakashi
-/ban world Bigsalad
-/ban world Smal
-/ban world Stiga
-/ban world Jank
-/ban world Lb
-/ban world Drewbaby
-
-Macro#4
-/ban world Bostwick
-/ban world Tibblesworth
-/ban world Jebedoneus
-/ban world Shivering
-/ban world Elbag
-/ban world Halle
-/ban world Hooblah
-/ban world Teneniel
-/ban world jaeden
-/ban world Emiliatan
-/ban world Lbz
-/ban world Magechan
-/ban world Darksteel
-
-Macro#5
-/ban world Dorra
-/ban world Lilsackonuts
-/ban world manbearcat
-/ban world coffeeshot
-/ban world halle
-/ban world peekaboo
-/ban world blindmuffin
-/ban world mikalo
-/ban world Tomkin
-/ban world Varran
-/ban world Sheep
-/ban world Garm
-
-Macro#6
-/ban world Deathcoil
-/ban world Lb
-/ban world Voltago
-/ban world Samwell
-/ban world Triarbarola
-/ban world Blleu
-/ban world Mohfasa
-/ban world Anthrix
-/ban world Aelish
-/ban world Forsale
-/ban world Brian
-/ban world Denatris
-
-Macro#7
-/ban world Sevles
-/ban world Bitties
-/ban world Burningtree
-/ban world Chewiexp
-/ban world Meepmoop
-/ban world Lightfury
-/ban world Sasakibomb
-/ban world Alarac
-/ban world Telvahn
-/ban world Haarth
-/ban world Democalypse
-
-Macro#8
-/ban world Jáke
-/ban world Sinkdrinker
-/ban world Bashur
-/ban world Amg
-/ban world Moediggz
-/ban world Rha
-/ban world Mehz
-/ban world Bigbigtrain
-/ban world Druudle
-/ban world Tafyx
-/ban world Skeramie
-
-Macro#9
-/ban world Imagein
-/ban world Drinksinner
-/ban world Buggzy
+/ban world Thearen<br />
+/ban world Shwahh<br />
+/ban world Deathcoil<br />
+/ban world Strovgard<br />
+/ban world Wruciraptor<br />
+/ban world Hydration<br />
+/ban world You<br />
+/ban world Slipperydude<br />
+/ban world Destine<br />
+/ban world Tibblesworth<br />
+/ban world Queek<br />
+<br />
+Macro#2<br />
+/ban world Sintinker<br />
+/ban world Deafmuffin<br />
+/ban world Abanurk<br />
+/ban world Relm<br />
+/ban world Ajamian<br />
+/ban world Fps<br />
+/ban world Emeralddream<br />
+/ban world westfall<br />
+/ban world Abanurk<br />
+/ban world Twixqt<br />
+/ban world Asapchungus<br />
+/ban world Cainna<br />
+/ban world Beanybaby<br />
+<br />
+Macro#3<br />
+/ban world Gossipgirlxo<br />
+/ban world Bugsy<br />
+/ban world Warpollo<br />
+/ban world Mageputa<br />
+/ban world Daydreamx<br />
+/ban world Sumo<br />
+/ban world Kakashi<br />
+/ban world Bigsalad<br />
+/ban world Smal<br />
+/ban world Stiga<br />
+/ban world Jank<br />
+/ban world Lb<br />
+/ban world Drewbaby<br />
+<br />
+Macro#4<br />
+/ban world Bostwick<br />
+/ban world Tibblesworth<br />
+/ban world Jebedoneus<br />
+/ban world Shivering<br />
+/ban world Elbag<br />
+/ban world Halle<br />
+/ban world Hooblah<br />
+/ban world Teneniel<br />
+/ban world jaeden<br />
+/ban world Emiliatan<br />
+/ban world Lbz<br />
+/ban world Magechan<br />
+/ban world Darksteel<br />
+<br />
+Macro#5<br />
+/ban world Dorra<br />
+/ban world Lilsackonuts<br />
+/ban world manbearcat<br />
+/ban world coffeeshot<br />
+/ban world halle<br />
+/ban world peekaboo<br />
+/ban world blindmuffin<br />
+/ban world mikalo<br />
+/ban world Tomkin<br />
+/ban world Varran<br />
+/ban world Sheep<br />
+/ban world Garm<br />
+<br />
+Macro#6<br />
+/ban world Deathcoil<br />
+/ban world Lb<br />
+/ban world Voltago<br />
+/ban world Samwell<br />
+/ban world Triarbarola<br />
+/ban world Blleu<br />
+/ban world Mohfasa<br />
+/ban world Anthrix<br />
+/ban world Aelish<br />
+/ban world Forsale<br />
+/ban world Brian<br />
+/ban world Denatris<br />
+<br />
+Macro#7<br />
+/ban world Sevles<br />
+/ban world Bitties<br />
+/ban world Burningtree<br />
+/ban world Chewiexp<br />
+/ban world Meepmoop<br />
+/ban world Lightfury<br />
+/ban world Sasakibomb<br />
+/ban world Alarac<br />
+/ban world Telvahn<br />
+/ban world Haarth<br />
+/ban world Democalypse<br />
+<br />
+Macro#8<br />
+/ban world Jáke<br />
+/ban world Sinkdrinker<br />
+/ban world Bashur<br />
+/ban world Amg<br />
+/ban world Moediggz<br />
+/ban world Rha<br />
+/ban world Mehz<br />
+/ban world Bigbigtrain<br />
+/ban world Druudle<br />
+/ban world Tafyx<br />
+/ban world Skeramie<br />
+<br />
+Macro#9<br />
+/ban world Imagein<br />
+/ban world Drinksinner<br />
+/ban world Buggzy<br />
